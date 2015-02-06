@@ -1,0 +1,1 @@
+Blast from the Classic Mac OS past. Atomic Locks, Stacks, Guarded Stacks, Queues, and Guarded Queues. 68020+ and PowerPC. No x86 or ARM (though that wouldn't be tough to add).
