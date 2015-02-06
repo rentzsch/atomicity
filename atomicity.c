@@ -2,7 +2,7 @@
 	atomicity.c $Revision: 74 $
 		<http://redshed.net/atomicity>
 	
-	Copyright © 1998-2002 Red Shed Software. All rights reserved.
+	Copyright Â© 1998-2002 Red Shed Software. All rights reserved.
 	by Jonathan 'Wolf' Rentzsch (jon at redshed dot net)
 	
 	This code requires a 68020 or later or any PowerPC. No habla 68000 or x86.

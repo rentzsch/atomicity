@@ -2,7 +2,7 @@
 	atomicity.config.h $Revision: 13 $
 		<http://rentzsch.com/atomicity>
 	
-	Copyright © 1998-2002 Red Shed Software. All rights reserved.
+	Copyright Â© 1998-2002 Red Shed Software. All rights reserved.
 	by Jonathan 'Wolf' Rentzsch (jon at redshed dot net)
 	
 	************************************************************************************/
